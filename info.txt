@@ -1,0 +1,10 @@
+Info:
+1)Jucatorul va avea intotdeuna prima tura
+2)Jucatorul poate sa aleaga o singura pozitie de pe board pe tura
+3)Jucatorul poate sa aleaga doar o pozitie libera de pe board reprezentata prin numere
+4)Cand jucatorul sau computerul completeaza o linie, o coloana sau o diagonala
+de pe board cu propriul simbol atunci el va castiga
+5)Fiecare victorie va creste punctajul in functie de dificultate,
+pierderile vor reduce punctajul in functie de dificultate
+6)Starea boardului si scorul este salvat la inchiderea aplicatiei
+7)Jucatorul poate sa aleaga intre 3 niveluri de dificultate

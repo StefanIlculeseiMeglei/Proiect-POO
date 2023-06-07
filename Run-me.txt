@@ -1,0 +1,3 @@
+Petru a crea fișierul executabil mutați directorul curent în folderul cu fișierele sursă.
+Scrieți comanda:make
+Acum pentru a rula executabilul scrieți comanda: ./program
